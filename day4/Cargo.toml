@@ -1,0 +1,8 @@
+[package]
+
+name = "avoc_day4"
+version = "0.0.1"
+authors = [ "Darin Chambers <darin.chambers@gmail.com>" ]
+
+[dependencies]
+rust-crypto = "^0.2"
