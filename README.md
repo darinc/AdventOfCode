@@ -7,10 +7,10 @@ I have written code in 11 different languages.  Six of which I've used recently 
 My goal is to program solutions for the challenges in at least 25 different programming languages.
 
 ### Current status:
-
-* Day 4
-* 10 solutions
-* 7/25 unique languages
+Day `5` complete.  `12` solutions.  `8`/25 unique languages used
+* Day 5
+* 12 solutions
+* 8/25 unique languages
 
 ### My solutions are:
 
@@ -33,3 +33,4 @@ My goal is to program solutions for the challenges in at least 25 different prog
 * √ PHP
 * √ SQL
 * √ Rust
+* √ Swift
