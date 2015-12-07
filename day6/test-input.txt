@@ -1,3 +1,0 @@
-turn on 0,0 through 999,999
-turn off 0,0 through 4,4
-toggle 1,1 through 999,999
