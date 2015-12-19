@@ -13,3 +13,7 @@ CoffeeScript                     1              5              0             16
 SUM:                             5             27              0            105
 -------------------------------------------------------------------------------
 ```
+
+### Notes
+
+* You can complete part 1 via linux/osx command line: `cat input.txt| sed -e 's|(|+1|g' -e 's|)|-1|g' | sed -e 's|+1|1|' | bc`
