@@ -6,11 +6,21 @@ I have written code in 11 different languages.  Six of which I've used recently 
 
 My goal is to program solutions for the challenges in at least 25 different programming languages.
 
-### Current status:
+### Current status 2015:
 
 * Day 6
 * 13 solutions
 * 9/25 unique languages
+
+### Current status 2016:
+
+* Day 9
+* stats coming soon
+
+### Current status 2017:
+
+* Day 6
+* stats coming soon
 
 ### My solutions are:
 
